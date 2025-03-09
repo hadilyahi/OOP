@@ -1,5 +1,5 @@
-#ifndef ClassObject_H
-#define ClassObject_H
+#ifndef ConstructorsDestructors_H
+#define ConstructorsDestructors_H
 #include <iostream>
 
 using namespace std;
@@ -22,4 +22,4 @@ public:
 
 
 
-#endif // ClassObject_H
+#endif  // ConstructorsDestructors_H

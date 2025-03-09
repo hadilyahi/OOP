@@ -14,7 +14,7 @@ class Rectangle{
         void setHeight(float h);
         float getArea();
 
-    
+        Rectangle();
 
 };
 

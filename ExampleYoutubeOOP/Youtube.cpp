@@ -14,7 +14,7 @@ using namespace std;
     void YoutubeChannel::unsubscribe(){
             if (subscribersCount > 0) {
                 subscribersCount--;
-            }
+            }                                                                                                                                                   
     }
     string YoutubeChannel::getName(){
             return name;

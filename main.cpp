@@ -16,12 +16,14 @@ int main(){
     // inheritance ---  we can create  derived classses that inherit properties from their parent classes
     // polymorphism --- we can treat multiple difrrent objects as their base object type
     
-    Rectangle r1;
+    Rectangle r1 , r2;
     r1.setWidth(5);
     r1.setHeight(10);
     cout << r1.getWidth() << endl;
     cout << r1.getHeight() << endl;
     cout << r1.getArea() << endl;
 
+   
 
-}
+
+} 

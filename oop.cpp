@@ -27,3 +27,9 @@ void Rectangle::setWidth(float w){
 float Rectangle::getArea(){
     return width * height;
 }
+
+Rectangle::Rectangle(){
+    width = 0;
+    height = 0;
+    cout << "Rectangle created" << endl;
+}
